@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medury", "Medury\Medury.csproj", "{56395001-D113-4671-8CD0-6F7A5147A49F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medcury.Test", "Medcury.Test\Medcury.Test.csproj", "{82266EF7-0733-4AFA-ADB6-E409E4619A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56395001-D113-4671-8CD0-6F7A5147A49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56395001-D113-4671-8CD0-6F7A5147A49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56395001-D113-4671-8CD0-6F7A5147A49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56395001-D113-4671-8CD0-6F7A5147A49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82266EF7-0733-4AFA-ADB6-E409E4619A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82266EF7-0733-4AFA-ADB6-E409E4619A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82266EF7-0733-4AFA-ADB6-E409E4619A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82266EF7-0733-4AFA-ADB6-E409E4619A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C723EAEC-67BB-46B4-BC2D-9062E9023448}
+	EndGlobalSection
+EndGlobal
